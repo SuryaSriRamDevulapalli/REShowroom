@@ -15,7 +15,7 @@ body {
 	background-size: 200px 100px;
 }
 h1 {
-    color: red;
+    color: white;
     padding: 20px;
     text-align: center;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -37,7 +37,7 @@ nav ul li {
             margin-right: 20px;
         }
 nav ul li a {
-            color: red;
+            color: white;
             text-decoration: none;
             transition: color 0.3s ease;
         }
@@ -52,7 +52,7 @@ nav ul li a {
          th, td {
         border: 1px solid #343a40;
         padding: 10px;
-        color: red;
+        color: white;
         font-weight: bold;
         text-align: left;
     	}   
@@ -66,7 +66,7 @@ nav ul li a {
 
 <body>
 <header>
-	<a href="index.html" class="title" style="color: red;" >Home Page</a>
+	<a href="index.html" class="title" style="color: white;" >Home Page</a>
 				<nav>
 					<ul>
 						<li><a href="shotgun.jsp" class="active">Shotgun 650</a></li>
